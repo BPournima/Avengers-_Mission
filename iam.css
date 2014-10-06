@@ -1,0 +1,148 @@
+body {
+    background-color: #FFFFF4;
+}
+
+#p{
+position: fixed;
+    top: -30px;
+    left: 10x;
+    width: 160px;
+    height: 160px;
+}
+#Span_1{   
+    font-size:32px;
+    letter-spacing:9px;
+    color:black;
+    position: fixed;
+    top: 30px;
+    left: 135px;}
+
+#o{
+position: fixed;
+    top: 60px;
+    left: 55px;
+    width: 140px;
+    height: 140px;
+}
+#Span_2{   
+font-size:32px;
+    letter-spacing:9px;
+    color:black;
+    position: fixed;
+    top: 110px;
+    left: 170px;}
+
+
+#u{
+position: fixed;
+    top: 130px;
+    left: 110px;
+    width: 140px;
+    height: 140px;
+}
+
+#Span_3{  
+font-size:32px;
+    letter-spacing:9px; 
+    color:black;
+    position: relative;
+    top: 170px;
+    left: 220px;}
+
+
+#r{
+position: fixed;
+    top: 190px;
+    left: 175px;
+    width: 140px;
+    height: 140px;
+}
+#Span_4{  
+font-size:32px;
+    letter-spacing:9px; 
+    color:black;
+    position: relative;
+    top: 230px;
+    left: 135px;}
+
+#n{
+position: fixed;
+    top: 255px;
+    left: 240px;
+    width: 140px;
+    height: 140px;
+}
+
+#Span_5{   
+font-size:32px;
+    letter-spacing:9px;
+    color:black;
+    position: relative;
+    top: 290px;
+    left: 20px;}
+
+
+#i{
+position: fixed;
+    top: 315px;
+    left: 305px;
+    width: 140px;
+    height: 140px;
+}
+#Span_6{ 
+font-size:32px;
+    letter-spacing:9px;  
+    color:black;
+    position: relative;
+    top: 355px;
+    left: -40px;}
+
+
+#m{
+position: fixed;
+    top: 375px;
+    left: 370px;
+    width: 140px;
+    height: 140px;
+}
+
+#Span_7{   
+font-size:32px;
+    letter-spacing:9px;
+    color:black;
+    position: fixed;
+    top:415px;
+    left:485px;}
+
+#a{
+position: fixed;
+    top: 440px;
+    left: 435px;
+    width: 140px;
+    height: 140px;
+}
+
+#Span_8{ 
+font-size:32px;
+    letter-spacing:9px;  
+    color:black;
+    position: fixed;
+    top: 480px;
+    left: 550px;}
+
+
+#b{
+position: fixed;
+    top: 500px;
+    left: 490px;
+    width: 160px;
+    height: 160px;
+}
+
+#Span_9{   
+font-size:32px;
+    letter-spacing:9px;
+    color:black;
+    position: fixed;
+    top: 560px;
+    left: 620px;}
